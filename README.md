@@ -1,1 +1,1 @@
-# AI-Powered-Healthcare-Diagnosis-Assistant
+# AI-Healthcare-Diagnosis-Assistant
