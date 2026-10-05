@@ -21,6 +21,9 @@ streamlit run app.py
 ```
 Open the Streamlit URL in Chrome.
 
+## DEMO
+https://ai-powered-healthcare-diagnosis-assistant-dyo3lo6fveobnu5iwi3m.streamlit.app/
+
 ## Notebook
 ```bash
 jupyter notebook
